@@ -12,7 +12,7 @@
 
 A web application that allows its users to play Rock, Paper, Scissors against the computer, choosing between the different options and keeping a history of the latest results.
 
-• To start the application, it should be accessed through a server, starting with the piedraPapelTijera.html file.
+• To start the application, access the file piedraPapelTijera.html.
 
 
 ## 🚀 Technologies
